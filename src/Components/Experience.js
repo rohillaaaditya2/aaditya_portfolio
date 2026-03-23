@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { FaLaptopCode, FaServer, FaCogs } from "react-icons/fa";
+import { FaLaptopCode, FaCogs } from "react-icons/fa";
 
 function Experience() {
   const experiences = [
